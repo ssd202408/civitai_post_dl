@@ -1,0 +1,2 @@
+# civitai_post_dl
+CIVITAIのLoraではなく作品をDLしたい人向けです
